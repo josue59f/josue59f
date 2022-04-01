@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josue59f
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Data Science!
-- 💞️ I’m looking to collaborate on ... Data Science
+- 👀 I’m interested in ... JavaScript
+- 🌱 I’m currently learning ... React and Node
+- 💞️ I’m looking to collaborate on ... App dev
 - 📫 How to reach me ... :)
 
 <!---
