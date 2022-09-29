@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josue59f
 - 👀 I’m interested in ... JavaScript
-- 🌱 I’m currently learning ... React and Node
+- 🌱 I’m currently learning ... React and Node, and callback hell
 - 💞️ I’m looking to collaborate on ... App dev
 - 📫 How to reach me ... :)
 
